@@ -30,8 +30,6 @@ console.log(i);
 var contenuto = document.getElementById('numeri').innerHTML;
 document.getElementById('numeri').innerHTML = contenuto + '<li>' + [i] + '</li>';
 };
-
-
 };
 
 
