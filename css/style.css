@@ -1,0 +1,21 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+body {
+  font-size: 20px;
+  background-color: orange;
+}
+/* #numeri {
+  color:red;
+} */
+.list_style_none {
+  list-style: none;
+
+}
+/* .lista {
+  text-align: center;
+  width: 100%;
+  border: 2px solid purple;
+} */
